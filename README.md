@@ -5,8 +5,7 @@ This repository contains a detailed study and practical examples of SQL injectio
 
 ## Contents
 1. **Introduction to SQL Injection**  
-   Learn the basics of SQL injection, including its types, attack vectors, and potential impacts.
-
+   Learn the basics of SQL injection, including its types, attack vectors, and potential impacts. 
 2. **Practical Examples**  
    - Using MySQL for query manipulation.
    - Common SQL statements and their usage.
