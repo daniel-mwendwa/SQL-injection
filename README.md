@@ -1,4 +1,4 @@
-# SQL Injection Fundamentals
+# SQL injection Fundamentals
 
 ## Overview
 This repository contains a detailed study and practical examples of SQL injection, one of the most critical web application vulnerabilities identified by OWASP. It serves as a learning resource for security professionals and developers to understand, identify, and mitigate SQL injection attacks.
